@@ -2,6 +2,8 @@
 
 I made Console FPS game with TCP networking!
 
+[![Development Note p.193](https://img.youtube.com/vi/9WrlZWzztA0/0.jpg)](https://www.youtube.com/watch?v=9WrlZWzztA0)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
