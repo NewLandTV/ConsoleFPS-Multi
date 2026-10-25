@@ -20,6 +20,10 @@ Thank you to everyone!
 
 [![Development Note p.193](https://img.youtube.com/vi/9WrlZWzztA0/0.jpg)](https://www.youtube.com/watch?v=9WrlZWzztA0)
 
+## 04. Dev Note p.282
+
+[![Development Note p.282](https://img.youtube.com/vi/hjVPhKMoR88/0.jpg)](https://www.youtube.com/watch?v=hjVPhKMoR88)
+
 # **III. Reference & Links(출처 및 링크)**
 
 - [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
